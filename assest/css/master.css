@@ -1,0 +1,9 @@
+main {
+  height: 100vh;
+  background-image: url(../img/key.webp);
+  background-size: cover;
+}
+main > div {
+  height: 100px;
+  background-color: rgba(128, 128, 128, 0.445);
+}/*# sourceMappingURL=master.css.map */
